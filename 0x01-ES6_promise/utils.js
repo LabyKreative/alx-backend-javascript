@@ -8,7 +8,7 @@ export function uploadPhoto() {
 
 export function createUser() {
   return Promise.resolve({
-    firstName: 'Laby',
-    lastName: 'Owolabi',
+    firstName: 'Guillaume',
+    lastName: 'Salva',
   });
 }
