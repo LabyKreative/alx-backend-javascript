@@ -57,7 +57,7 @@ const styleSheet = `
 /**
  * Displays information about students in a table.
  * @param students The list of students to display.
- * @author LabyKreative <https://github.com/LabyKreative>
+ * @author Adeyemi Owolabi <https://github.com/LabyKreative>
  */
 export const displayStudents = (students: Array<Student>): void => {
   const table = document.createElement('table');
