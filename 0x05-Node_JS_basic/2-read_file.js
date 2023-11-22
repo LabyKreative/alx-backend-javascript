@@ -1,4 +1,4 @@
-// A function that accepts a path in argument
+// A synchronous function that accepts a path in argument
 const fs = require('fs');
 
 function countStudents(fileName) {
