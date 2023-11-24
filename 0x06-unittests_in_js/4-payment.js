@@ -1,3 +1,4 @@
+// Function to send payments
 const Utils = require('./utils');
 
 const sendPaymentRequestToApi = (totalAmount, totalShipping) => {
