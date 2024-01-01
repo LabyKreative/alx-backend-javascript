@@ -1,1 +1,1 @@
-### ES6 Promises
+### ES6 Promises - Promise's a powerful tool
